@@ -15,6 +15,7 @@ public class PracticeExample_1
           Scanner scan = new Scanner(System.in);
           System.out.println("Please input a number(year)");
           long year = scan.nextLong();
+          System.out.println("Hello everyone!");
           System.out.println("11111");
           System.out.println("This my first change");
           PracticeExample_1.testDebugOne();
@@ -35,8 +36,6 @@ public class PracticeExample_1
         {
 
         System.out.println("test1");
-        System.out.println("test2");
-        System.out.println("test3");
         System.out.println("very beautiful");
 
 
@@ -45,6 +44,8 @@ public class PracticeExample_1
     public static void testDebugTwo()
         {
 
+        System.out.println("test2");
+        System.out.println("test3");
         System.out.println("test4");
         System.out.println("test5");
         System.out.println("test6");
