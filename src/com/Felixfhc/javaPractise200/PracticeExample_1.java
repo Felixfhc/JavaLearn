@@ -16,6 +16,7 @@ public class PracticeExample_1
           System.out.println("Please input a number(year)");
           long year = scan.nextLong();
           System.out.println("11111");
+          System.out.println("This my first change");
           PracticeExample_1.testDebugOne();
           testDebugTwo();
           if (year % 4 ==0 && year % 100 !=0 || year % 400 == 0)
@@ -36,6 +37,7 @@ public class PracticeExample_1
         System.out.println("test1");
         System.out.println("test2");
         System.out.println("test3");
+        System.out.println("very beautiful");
 
 
         }
